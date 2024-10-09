@@ -50,9 +50,9 @@ You can find more details about each project on my portfolio website!
 
 Feel free to reach out to me if you'd like to collaborate or learn more about my work:
 
-- 💼 [LinkedIn]([Ankit Khoiwal](https://www.linkedin.com/in/ankit-khoiwal-645263260))  
+- 💼 ([LinkedIn](https://www.linkedin.com/in/ankit-khoiwal-645263260))  
 - 📧 Email: [ankitkhoiwal3@gmail.com](mailto:ankitkhoiwal3@gmail.com)  
-- 🐱 [GitHub]([Ankit Khoiwal](https://github.com/Ankit-khoiwal))  
+- 🐱 ([GitHub](https://github.com/Ankit-khoiwal))  
 
 ---
 
@@ -61,7 +61,7 @@ Feel free to reach out to me if you'd like to collaborate or learn more about my
 To view this website locally:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Ankit-khoiwal/portfolio-website.git](https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio.git)
+   git clone https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio.git
    ```
 2. Open the `index.html` file in your browser.
 
@@ -70,7 +70,7 @@ To view this website locally:
 ## 🏅 Contributions
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page]([Portfolio Issue Page](https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio/issues)).
+Feel free to check the ([issues page](https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio/issues)).
 
 ---
 
