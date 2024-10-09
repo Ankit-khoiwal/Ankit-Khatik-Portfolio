@@ -50,9 +50,9 @@ You can find more details about each project on my portfolio website!
 
 Feel free to reach out to me if you'd like to collaborate or learn more about my work:
 
-- 💼 [LinkedIn]([https://linkedin.com/in/ankit-khoiwal](https://www.linkedin.com/in/ankit-khoiwal-645263260))  
+- 💼 [LinkedIn]([Ankit Khoiwal](https://www.linkedin.com/in/ankit-khoiwal-645263260))  
 - 📧 Email: [ankitkhoiwal3@gmail.com](mailto:ankitkhoiwal3@gmail.com)  
-- 🐱 [GitHub]([https://github.com/Ankit-khoiwal](https://github.com/Ankit-khoiwal))  
+- 🐱 [GitHub]([Ankit Khoiwal](https://github.com/Ankit-khoiwal))  
 
 ---
 
@@ -70,7 +70,7 @@ To view this website locally:
 ## 🏅 Contributions
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page]([https://github.com/yourusername/portfolio-website](https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio/issues)).
+Feel free to check the [issues page]([Portfolio Issue Page](https://github.com/Ankit-khoiwal/Ankit-Khatik-Portfolio/issues)).
 
 ---
 
