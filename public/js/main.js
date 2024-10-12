@@ -172,14 +172,16 @@
       }
     }
 
-    $("#prevPage").on("click", function () {
+    $("#prevPage").on("click", function (e) {
+      e.preventDefault();
       if (currentPage > 1) {
         currentPage--;
         updatePagination();
       }
     });
 
-    $("#nextPage").on("click", function () {
+    $("#nextPage").on("click", function (e) {
+      e.preventDefault();
       if (currentPage * itemsPerPage < filteredItems.length) {
         currentPage++;
         updatePagination();
